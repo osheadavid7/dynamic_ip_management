@@ -3,3 +3,4 @@ mycreds.txt
 *~
 *.json
 .ipynb_checkpoints/
+*.py
